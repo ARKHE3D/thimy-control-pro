@@ -1,0 +1,9 @@
+THIMY CONTROL PRO 2.0 — versión local funcional
+
+USO: Publicá el contenido de esta carpeta en un hosting HTTPS (Cloudflare Pages, Netlify, GitHub Pages). Abrí la URL desde Chrome en Android y elegí Instalar aplicación. También podés abrir index.html en computadora para probar el panel, pero la instalación y modo sin conexión requieren HTTPS.
+
+COMENZAR: 1) Ajustes: nombre, WhatsApp, logo, costo de regalo. 2) Productos: agregar o importar CSV (plantilla incluida en Ajustes). 3) Vender: registrar ventas de stock o catálogo. 4) Compras: registrar recepción y revisar reposición. 5) Panel: visualizar resultados. 6) Marketing: generar textos con enlace directo. 7) Exportar respaldo JSON regularmente.
+
+LIMITACIONES REALES: Los datos se guardan en localStorage de ESTE navegador. No hay sincronización entre dispositivos, cuentas de usuario, integración autenticada con Natura, publicación automática ni mensajería automatizada. No es una solución SaaS lista para vender. Los costos de productos importados deben verificarse. La app no sustituye un sistema contable/fiscal.
+
+PRÓXIMA FASE: backend multiempresa, autenticación, base de datos con aislamiento por empresa, sincronización, permisos, integración Meta API y conectores autorizados de Natura, registro de consentimientos y auditoría del servidor.
